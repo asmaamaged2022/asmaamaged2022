@@ -85,13 +85,7 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asmaamaged2022&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmaamaged2022&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?asmaamaged20222=anuraghazra)](https://github.com/asmaamaged2022/github-readme-stats)
 
 ---
 ## 🤝 Connect With Me
