@@ -94,9 +94,11 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/asmaa-maged-a53a28347" target="_blank" style="text-decoration: none;">
+<a href="https://www.linkedin.com/in/asmaa-maged-a53a28347" target="_blank" style="text-decoration:none; display:inline-block;">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
-</a>&nbsp;&nbsp;&nbsp;<a href="mailto:asmaamaged96@gmail.com"style="text-decoration: none;">
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:asmaamaged96@gmail.com" target="_blank" style="text-decoration:none; display:inline-block;">
 <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/>
 </a>
 </p>
