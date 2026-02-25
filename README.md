@@ -85,28 +85,18 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-<span>
-<a href="https://www.linkedin.com/in/asmaa-maged-a53a28347" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-</span>
 
-<span>
-<a href="mailto:asmaamaged96@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-</span>
-</p>
+ <p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asmaamaged2022&theme=tokyonight" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=asmaamaged2022&layout=compact&theme=tokyonight" /></p>
+
 ---
+
 ## 🤝 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/asmaa-maged-a53a28347" target="_blank">
+<a href="https://www.linkedin.com/in/asmaa-maged-a53a28347" target="_blank" style="text-decoration: none;">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:asmaamaged96@gmail.com">
+</a>&nbsp;&nbsp;&nbsp;<a href="mailto:asmaamaged96@gmail.com"style="text-decoration: none;">
 <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/>
 </a>
 </p>
