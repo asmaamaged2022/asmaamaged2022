@@ -85,8 +85,19 @@
 ---
 
 ## 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?asmaamaged20222=anuraghazra)](https://github.com/asmaamaged2022/github-readme-stats)
+<p align="center">
+<span>
+<a href="https://www.linkedin.com/in/asmaa-maged-a53a28347" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+</span>
 
+<span>
+<a href="mailto:asmaamaged96@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+</span>
+</p>
 ---
 ## 🤝 Connect With Me
 
